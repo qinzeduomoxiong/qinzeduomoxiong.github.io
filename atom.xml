@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>芹泽的博客</title>
+  
+  <subtitle>qinze</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://youknowwhatscookingboom.com/"/>
+  <updated>2019-10-23T14:31:29.006Z</updated>
+  <id>https://youknowwhatscookingboom.com/</id>
+  
+  <author>
+    <name>芹泽</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://youknowwhatscookingboom.com/2019/11/22/a-li-kai-yuan-fen-bu-shi-shi-wu-kuang-jia-fescar/"/>
+    <id>https://youknowwhatscookingboom.com/2019/11/22/a-li-kai-yuan-fen-bu-shi-shi-wu-kuang-jia-fescar/</id>
+    <published>2019-11-22T03:56:13.901Z</published>
+    <updated>2019-10-23T14:31:29.006Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;阿里开源分布式事务框架fescar&quot;&gt;&lt;a href=&quot;#阿里开源分布式事务框架fescar&quot; class=&quot;headerlink&quot; title=&quot;阿里开源分布式事务框架fescar&quot;&gt;&lt;/a&gt;阿里开源分布式事务框架fescar&lt;/h2&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Windows系统下如何执行Linux命令</title>
+    <link href="https://youknowwhatscookingboom.com/2019/09/12/2019-09-12-windows-xi-tong-xia-ru-he-zhi-xing-linux-ming-ling/"/>
+    <id>https://youknowwhatscookingboom.com/2019/09/12/2019-09-12-windows-xi-tong-xia-ru-he-zhi-xing-linux-ming-ling/</id>
+    <published>2019-09-12T13:28:06.000Z</published>
+    <updated>2019-11-22T03:56:42.069Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近两天搭建hexo框架的过程中发现GitHub上的很多开源项目的插件等安装都是基于Linux命令的，由于本地开发基本都是在win下，所以网上了解了下大概有几种方式可以实现win下执行Linux命令，亲测CygwinPortable软件可用，步骤如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>二零一七年终总结</title>
+    <link href="https://youknowwhatscookingboom.com/2018/01/22/2017-conclusion/"/>
+    <id>https://youknowwhatscookingboom.com/2018/01/22/2017-conclusion/</id>
+    <published>2018-01-22T04:32:09.000Z</published>
+    <updated>2019-09-26T05:13:10.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://youknowwhatscookingboom.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://youknowwhatscookingboom.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
