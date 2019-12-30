@@ -8,7 +8,7 @@
       <link href="/2019/12/30/2019-12-30-juc1-volatile-guan-jian-zi-zuo-yong/"/>
       <url>/2019/12/30/2019-12-30-juc1-volatile-guan-jian-zi-zuo-yong/</url>
       
-        <content type="html"><![CDATA[<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=95447&auto=1&height=66"></iframe></div>##### JUC1 volatile关键字作用<blockquote><p>以前学习javase时没有系统的学过juc，工作中也几乎没有使用，现在甚至基础概念已经模糊了，最近在看一些源码时juc模块的使用穿插其中，遂欣然决定从头学习juc（出来混迟早要还的）。。。。。。。</p></blockquote><p>学习前需要掌握最基础的juc概念</p><ul><li><p>线程的概念</p></li><li><p>如何启动一个线程</p></li><li><p>基本的线程同步</p></li></ul><p><img src="volatile%E5%85%B3%E9%94%AE%E5%AD%97%E4%BD%9C%E7%94%A8.png" alt="volatile关键字作用.png"></p>]]></content>
+        <content type="html"><![CDATA[<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=95447&auto=1&height=66"></iframe></div>##### JUC1 volatile关键字作用<blockquote><p>以前学习javase时没有系统的学过juc，工作中也几乎没有使用，现在甚至基础概念已经模糊了，最近在看一些源码时juc模块的使用穿插其中，遂欣然决定从头学习juc（出来混迟早要还的）。。。。。。。</p></blockquote><p>学习前需要掌握最基础的juc概念</p><ul><li><p>线程的概念</p></li><li><p>如何启动一个线程</p></li><li><p>基本的线程同步</p></li></ul><p><img src="volatile%E5%85%B3%E9%94%AE%E5%AD%97%E4%BD%9C%E7%94%A8.png" alt></p>]]></content>
       
       
       <categories>
