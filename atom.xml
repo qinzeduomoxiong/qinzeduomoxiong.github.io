@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://youknowwhatscookingboom.com/"/>
-  <updated>2019-10-23T14:31:29.006Z</updated>
+  <updated>2019-12-30T06:48:48.663Z</updated>
   <id>https://youknowwhatscookingboom.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JUC1  volatile关键字作用</title>
+    <link href="https://youknowwhatscookingboom.com/2019/12/30/2019-12-30-juc1-volatile-guan-jian-zi-zuo-yong/"/>
+    <id>https://youknowwhatscookingboom.com/2019/12/30/2019-12-30-juc1-volatile-guan-jian-zi-zuo-yong/</id>
+    <published>2019-12-30T06:27:09.000Z</published>
+    <updated>2019-12-30T06:48:48.663Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="juc" scheme="https://youknowwhatscookingboom.com/categories/juc/"/>
+    
+    
+      <category term="juc" scheme="https://youknowwhatscookingboom.com/tags/juc/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
