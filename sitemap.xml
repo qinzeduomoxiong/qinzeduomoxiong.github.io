@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://youknowwhatscookingboom.com/2019/12/30/2019-12-30-juc1-volatile-guan-jian-zi-zuo-yong/</loc>
+    
+    <lastmod>2019-12-30T08:22:20.164Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://youknowwhatscookingboom.com/friends/index.html</loc>
     
     <lastmod>2019-11-22T07:10:09.142Z</lastmod>
@@ -37,14 +44,7 @@
   </url>
   
   <url>
-    <loc>https://youknowwhatscookingboom.com/archives/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://youknowwhatscookingboom.com/tags/index.html</loc>
+    <loc>https://youknowwhatscookingboom.com/contact/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
@@ -58,7 +58,14 @@
   </url>
   
   <url>
-    <loc>https://youknowwhatscookingboom.com/contact/index.html</loc>
+    <loc>https://youknowwhatscookingboom.com/archives/index.html</loc>
+    
+    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://youknowwhatscookingboom.com/tags/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
