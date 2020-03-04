@@ -4,13 +4,15 @@
 
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Windows系统下如何执行Linux命令, DeepLearning 芹泽 qinze">
+    <meta name="keywords" content="DeepLearning 芹泽 qinze">
     <meta name="baidu-site-verification" content>
     <meta name="google-site-verification" content>
     <meta name="360-site-verification" content>
-    <meta name="description" content="
+    <meta name="description" content="Java前后端AES加密前端加密&amp;lt;script&gt;
+    import * as CryptoJS from &#39;crypto-js&#39;
 
-最近两天搭建hexo框架的过程中发现GitHub上的很多开源项目的插件等安装都是基于Linux命令的，由于本地开发基本都是在win下，所以网上了解了下大概有几种方式可以实现win下执行Linux命令，亲测CygwinPortable软件">
+    function encrypt(password) {
+      const key ">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -18,7 +20,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Windows系统下如何执行Linux命令 | 芹泽的博客</title>
+    <title>芹泽的博客</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/font-awesome.min.css">
@@ -292,13 +294,13 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/6.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/3.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
                     <div class="description center-align post-title">
-                        Windows系统下如何执行Linux命令
+                        
                     </div>
                 </div>
             </div>
@@ -408,24 +410,11 @@
                 <div class="col s7">
                     
                     <div class="article-tag">
-                        
-                        <a href="/tags/杂七杂八/" target="_blank">
-                            <span class="chip bg-color">杂七杂八</span>
-                        </a>
-                        
+                        <span class="chip bg-color">无标签</span>
                     </div>
                     
                 </div>
                 <div class="col s5 right-align">
-                    
-                    <div class="post-cate">
-                        <i class="fa fa-bookmark fa-fw icon-category"></i>
-                        
-                        <a href="/categories/杂七杂八/" class="post-category" target="_blank">
-                            杂七杂八
-                        </a>
-                        
-                    </div>
                     
                 </div>
             </div>
@@ -433,7 +422,7 @@
             <div class="post-info">
                 <div class="post-date info-break-policy">
                     <i class="fa fa-calendar-minus-o fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2018-01-22
+                    2020-03-04
                 </div>
 
                 <div class="post-author info-break-policy">
@@ -447,7 +436,7 @@
                 
                 <div class="info-break-policy">
                     <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    125
+                    183
                 </div>
                 
 
@@ -470,16 +459,66 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=407679465&auto=1&height=66"></iframe></div>
+                <h3 id="Java前后端AES加密"><a href="#Java前后端AES加密" class="headerlink" title="Java前后端AES加密"></a>Java前后端AES加密</h3><h4 id="前端加密"><a href="#前端加密" class="headerlink" title="前端加密"></a>前端加密</h4><pre class="line-numbers language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">></span></span><span class="token script language-javascript">
+    <span class="token keyword">import</span> <span class="token operator">*</span> <span class="token keyword">as</span> CryptoJS <span class="token keyword">from</span> <span class="token string">'crypto-js'</span>
 
-<p>最近两天搭建hexo框架的过程中发现GitHub上的很多开源项目的插件等安装都是基于Linux命令的，由于本地开发基本都是在win下，所以网上了解了下大概有几种方式可以实现win下执行Linux命令，亲测CygwinPortable软件可用，步骤如下：</p>
-<ol>
-<li>下载安装包</li>
-<li>解压安装CygwinPortable</li>
-<li>配置环境变量，path下增加CygwinPortable/bin路径</li>
-<li>完成上述步骤即可在win系统下执行Linux命令</li>
-</ol>
+    <span class="token keyword">function</span> <span class="token function">encrypt</span><span class="token punctuation">(</span>password<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+      <span class="token keyword">const</span> key <span class="token operator">=</span> CryptoJS<span class="token punctuation">.</span>enc<span class="token punctuation">.</span>Utf8<span class="token punctuation">.</span><span class="token function">parse</span><span class="token punctuation">(</span><span class="token string">'10ynnr3j4wzvzsht'</span><span class="token punctuation">)</span>
+      <span class="token keyword">const</span> iv <span class="token operator">=</span> CryptoJS<span class="token punctuation">.</span>enc<span class="token punctuation">.</span>Utf8<span class="token punctuation">.</span><span class="token function">parse</span><span class="token punctuation">(</span><span class="token string">'vbujk8lhfmr19jb2'</span><span class="token punctuation">)</span>
+      <span class="token keyword">const</span> encrypted <span class="token operator">=</span> CryptoJS<span class="token punctuation">.</span>AES<span class="token punctuation">.</span><span class="token function">encrypt</span><span class="token punctuation">(</span>password<span class="token punctuation">,</span> key<span class="token punctuation">,</span> <span class="token punctuation">{</span> iv<span class="token punctuation">,</span> mode<span class="token punctuation">:</span> CryptoJS<span class="token punctuation">.</span>mode<span class="token punctuation">.</span>CBC<span class="token punctuation">,</span> padding<span class="token punctuation">:</span> CryptoJS<span class="token punctuation">.</span>pad<span class="token punctuation">.</span>ZeroPadding <span class="token punctuation">}</span><span class="token punctuation">)</span>
+      <span class="token keyword">return</span> encrypted<span class="token punctuation">.</span><span class="token function">toString</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
 
+</span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h4 id="JAVA后台解密"><a href="#JAVA后台解密" class="headerlink" title="JAVA后台解密"></a>JAVA后台解密</h4><ul>
+<li><p>引入pom包</p>
+<pre class="line-numbers language-xml"><code class="language-xml">
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>properties</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>hutool.version</span><span class="token punctuation">></span></span>4.5.18<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>hutool.version</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>properties</span><span class="token punctuation">></span></span>
+
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dependency</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>groupId</span><span class="token punctuation">></span></span>cn.hutool<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>groupId</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>artifactId</span><span class="token punctuation">></span></span>hutool-crypto<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>artifactId</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>version</span><span class="token punctuation">></span></span>${hutool.version}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>version</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dependency</span><span class="token punctuation">></span></span>
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+</li>
+</ul>
+<pre><code>
+- JAVA代码
+``` java
+
+    /**
+     * AES key
+     */
+    public static final String KEY = &quot;10ynnr3j4wzvzsht&quot;;
+
+    /**
+     * AES iv
+     */
+    public static final String IV = &quot;vbujk8lhfmr19jb2&quot;;
+
+
+    private AuthenticationUtil(){
+        throw new RuntimeException();
+    }
+
+    /**
+     * 解密
+     * @param password
+     * @return
+     */
+    public static String decrypt(String password, String key, String iv){
+        AES aes = new AES(Mode.CBC, Padding.NoPadding,
+                new SecretKeySpec(key.getBytes(), &quot;AES&quot;),
+                new IvParameterSpec(iv.getBytes()));
+        byte[] result = aes.decrypt(Base64.decode(password.getBytes(StandardCharsets.UTF_8)));
+        String pwd = new String(result, StandardCharsets.UTF_8);
+        return pwd.trim();
+    }
+</code></pre>
             </div>
             <hr />
 
@@ -637,9 +676,9 @@
             <br/>
             <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
                   property="dct:title" rel="dct:type">
-                    《Windows系统下如何执行Linux命令》
+                    《》
                 </span> 由
-            <a xmlns:cc="http://creativecommons.org/ns#" href="/2018/01/22/windows-xi-tong-xia-ru-he-zhi-xing-linux-ming-ling/" property="cc:attributionName"
+            <a xmlns:cc="http://creativecommons.org/ns#" href="/2020/03/04/java-qian-hou-duan-aes-jia-mi/" property="cc:attributionName"
                rel="cc:attributionURL">
                 芹泽
             </a> 采用
@@ -680,7 +719,7 @@
         repo: 'qinzeduomoxiong.github.io',
         owner: 'qinzeduomoxiong',
         admin: "qinzeduomoxiong",
-        id: '2018/01/22/windows-xi-tong-xia-ru-he-zhi-xing-linux-ming-ling/',
+        id: '2020/03/04/java-qian-hou-duan-aes-jia-mi/',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -963,11 +1002,12 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="fa fa-dot-circle-o"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/2019/11/22/a-li-kai-yuan-fen-bu-shi-shi-wu-kuang-jia-fescar/">
+                <a href="/2020/03/04/java-qian-hou-duan-aes-jia-mi/">
                     <div class="card-image">
                         
                         
@@ -979,18 +1019,23 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            阿里开源分布式事务框架fescar前言随着微服务的普及，各中小公司都上了微服务，也伴随而来很多问题，如服务划分、系统分层、分库分表、分布式事务等，由于之前项目业务量都不大，虽然用上了微服务，但是并未涉及到太多问题，尤其是分布式事务，从未在项
+                            Java前后端AES加密前端加密&lt;script>
+    import * as CryptoJS from 'crypto-js'
+
+    function encrypt(password) {
+      const key 
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="fa fa-clock-o fa-fw icon-date"></i>2019-11-22
-                        </span>
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2020-03-04
+                            </span>
                         <span class="publish-author">
                             
                         </span>
                     </div>
                 </div>
+
                 
             </div>
         </div>
@@ -998,48 +1043,49 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                本篇&nbsp;<i class="fa fa-dot-circle-o"></i>
+                下一篇&nbsp;<i class="fa fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2018/01/22/windows-xi-tong-xia-ru-he-zhi-xing-linux-ming-ling/">
+                <a href="/2019/12/30/2019-12-30-juc1-volatile-guan-jian-zi-zuo-yong/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="Windows系统下如何执行Linux命令">
+                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="JUC1  volatile关键字作用">
                         
-                        <span class="card-title">Windows系统下如何执行Linux命令</span>
+                        <span class="card-title">JUC1  volatile关键字作用</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
                             
+##### volatile关键字作用
 
-最近两天搭建hexo框架的过程中发现GitHub上的很多开源项目的插件等安装都是基于Linux命令的，由于本地开发基本都是在win下，所以网上了解了下大概有几种方式可以实现win下执行Linux命令，亲测CygwinPortable软件
+
+以前学习javase时没有系统的学过juc，工作中也几乎没有使用，现在甚至基础概念已经模糊了，最近在看一些源码时juc模块的使用穿插其中，遂欣然决定从头学习juc（出来混迟早要还的）。。。。。。
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2018-01-22
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-12-30
                             </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/杂七杂八/" class="post-category" target="_blank">
-                                    杂七杂八
+                            <a href="/categories/juc/" class="post-category" target="_blank">
+                                    juc
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/杂七杂八/" target="_blank">
-                        <span class="chip bg-color">杂七杂八</span>
+                    <a href="/tags/juc/" target="_blank">
+                        <span class="chip bg-color">juc</span>
                     </a>
                     
                 </div>

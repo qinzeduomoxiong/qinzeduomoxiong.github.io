@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://youknowwhatscookingboom.com/2020/03/04/java-qian-hou-duan-aes-jia-mi/</loc>
+    
+    <lastmod>2020-03-04T01:14:29.935Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://youknowwhatscookingboom.com/contact/index.html</loc>
     
     <lastmod>2019-12-31T06:26:22.313Z</lastmod>
@@ -44,20 +51,6 @@
   </url>
   
   <url>
-    <loc>https://youknowwhatscookingboom.com/about/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://youknowwhatscookingboom.com/categories/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://youknowwhatscookingboom.com/tags/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
@@ -66,6 +59,20 @@
   
   <url>
     <loc>https://youknowwhatscookingboom.com/archives/index.html</loc>
+    
+    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://youknowwhatscookingboom.com/about/index.html</loc>
+    
+    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://youknowwhatscookingboom.com/categories/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
